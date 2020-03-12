@@ -1,5 +1,6 @@
 -o
 "C:\\Users\\iCan Student\\Desktop\\Robotics\\FRC\\Code\\Infinite Recharge 2020\\FRC2020\\build\\exe\\frcUserProgram\\release\\frcUserProgram"
+"C:\\Users\\iCan Student\\Desktop\\Robotics\\FRC\\Code\\Infinite Recharge 2020\\FRC2020\\build\\objs\\frcUserProgram\\release\\frcUserProgramCpp\\2y0j7bakndhfiijoln8ggh3yt\\OI.o"
 "C:\\Users\\iCan Student\\Desktop\\Robotics\\FRC\\Code\\Infinite Recharge 2020\\FRC2020\\build\\objs\\frcUserProgram\\release\\frcUserProgramCpp\\3bg5a77l7vd4edmrxq5jco6ri\\Robot.o"
 "C:\\Users\\iCan Student\\.gradle\\caches\\transforms-2\\files-2.1\\03d5cf1ebbc833a3b516f15f38f4da6d\\wpilibc-cpp-2020.3.2-linuxathena\\linux\\athena\\shared\\libwpilibc.so"
 "C:\\Users\\iCan Student\\.gradle\\caches\\transforms-2\\files-2.1\\be48b324e2fee5706d9af80b3a575b6e\\ntcore-cpp-2020.3.2-linuxathena\\linux\\athena\\shared\\libntcore.so"
@@ -34,6 +35,7 @@
 "C:\\Users\\iCan Student\\.gradle\\caches\\transforms-2\\files-2.1\\93646145e3110191cc8e2260e52d7438\\opencv-cpp-3.4.7-2-linuxathena\\linux\\athena\\shared\\libopencv_video.so.3.4"
 "C:\\Users\\iCan Student\\.gradle\\caches\\transforms-2\\files-2.1\\93646145e3110191cc8e2260e52d7438\\opencv-cpp-3.4.7-2-linuxathena\\linux\\athena\\shared\\libopencv_videoio.so.3.4"
 "C:\\Users\\iCan Student\\.gradle\\caches\\transforms-2\\files-2.1\\93646145e3110191cc8e2260e52d7438\\opencv-cpp-3.4.7-2-linuxathena\\linux\\athena\\shared\\libopencv_videostab.so.3.4"
+"C:\\Users\\iCan Student\\.gradle\\caches\\transforms-2\\files-2.1\\25ce53f1b30d390b9ed06d151ae1cf11\\wpilibNewCommands-cpp-2020.3.2-linuxathena\\linux\\athena\\shared\\libwpilibNewCommands.so"
 "C:\\Users\\iCan Student\\.gradle\\caches\\transforms-2\\files-2.1\\17f2e49ac03f5c3d1589b0324fdd0b97\\wpilibOldCommands-cpp-2020.3.2-linuxathena\\linux\\athena\\shared\\libwpilibOldCommands.so"
 -rdynamic
 -pthread

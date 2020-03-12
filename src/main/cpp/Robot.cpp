@@ -61,7 +61,11 @@ void Robot::AutonomousPeriodic() {
 
 void Robot::TeleopInit() {}
 
-void Robot::TeleopPeriodic() {}
+void Robot::TeleopPeriodic() 
+{
+  leftInnerClimbMotor.Set(1.0);
+  leftOuterClimbMotor.Set(-1.0);
+}
 
 void Robot::DisabledInit() {}
 
